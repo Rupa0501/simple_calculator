@@ -19,7 +19,7 @@ body {
     border: 6px solid #2c2c2c;
     border-radius: 20px;
     padding: 20px;
-    width: 280px;
+    width: 350px;
   }
   
   #display {
@@ -53,15 +53,21 @@ body {
   }
   
   .number {
-    background-color: #d0f4de; /* mint green */
+    background-color: #d0f4de;
+    font-family: "Pangolin", cursive;
+    font-size: 30px;
   }
   
   .operator {
-    background-color: #bae6fd; /* light blue */
+    background-color: #bae6fd;
+    font-family: "Pangolin", cursive;
+    font-size: 30px;
   }
   
   .action {
-    background-color: #ffd6a5; /* peach */
+    background-color: #ffd6a5; 
+    font-family: "Pangolin", cursive;
+    font-size: 30px;
   }
   
   button:hover {
